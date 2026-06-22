@@ -11,18 +11,18 @@ Este projeto aplica localização em **Português do Brasil** para textos, inter
 
 Baixe a versão mais recente na aba **Releases** deste repositório:
 
-**Arquivo:** `Pyre-Traducao-PTBR-Installer-v1.0.2.exe`
+**Arquivo:** `Pyre-Traducao-PTBR-Installer-v1.0.3.exe`
 
 SHA-256:
 
 ```text
-8B3DF942C0283F6F67669BB2DFEB50D8702DAA2A73FFEF46CD304F45475C0737
+53D8786280B5FA2D2D2216DA5B64A8D90B30A9881163A7E889435624EA4B52B8
 ```
 
 ## Como instalar
 
 1. Feche o Pyre, caso esteja aberto.
-2. Execute `Pyre-Traducao-PTBR-Installer-v1.0.2.exe`.
+2. Execute `Pyre-Traducao-PTBR-Installer-v1.0.3.exe`.
 3. Confirme ou procure a pasta de instalação do jogo.
    - Caminho padrão da Steam:
 

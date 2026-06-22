@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.3 ? 2026-06-21
+
+- Corrigida compatibilidade da tradu??o com a fonte do Pyre.
+- Removidos `?`, `?` e `?` dos textos PT-BR, pois esses caracteres podiam aparecer como `*` em jogo.
+- Atualizado instalador com payload corrigido.
+
 ## v1.0.2 — 2026-06-21
 
 - Refeito o instalador como `.exe` portátil em .NET/WPF.
